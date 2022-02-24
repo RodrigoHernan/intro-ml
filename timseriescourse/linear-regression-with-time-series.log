@@ -1,0 +1,17 @@
+[{"stream_name":"stderr","time":13.616139796,"data":"/opt/conda/lib/python3.7/site-packages/papermill/iorw.py:50: FutureWarning: pyarrow.HadoopFileSystem is deprecated as of 2.0.0, please use pyarrow.fs.HadoopFileSystem instead.\n"}
+,{"stream_name":"stderr","time":13.616192433,"data":"  from pyarrow import HadoopFileSystem\n"}
+,{"stream_name":"stderr","time":22.538506247,"data":"/opt/conda/lib/python3.7/site-packages/traitlets/traitlets.py:2567: FutureWarning: --Exporter.preprocessors=[\"remove_papermill_header.RemovePapermillHeader\"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.\n"}
+,{"stream_name":"stderr","time":22.538548226,"data":"  FutureWarning,\n"}
+,{"stream_name":"stderr","time":22.538555075,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":22.79139938,"data":"[NbConvertApp] Writing 702203 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":25.206837828,"data":"/opt/conda/lib/python3.7/site-packages/traitlets/traitlets.py:2567: FutureWarning: --Exporter.preprocessors=[\"nbconvert.preprocessors.ExtractOutputPreprocessor\"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.\n"}
+,{"stream_name":"stderr","time":25.206879178,"data":"  FutureWarning,\n"}
+,{"stream_name":"stderr","time":25.20690306,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":25.9972635,"data":"[NbConvertApp] Support files will be in __results___files/\n"}
+,{"stream_name":"stderr","time":25.997358201,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":25.997864429,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":26.00015199,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":26.000183636,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":26.000192716,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":26.000203155,"data":"[NbConvertApp] Writing 317605 bytes to __results__.html\n"}
+]

@@ -1,0 +1,19 @@
+version: '3'
+
+services:
+  # db:
+    # image: postgres:14.2
+    # environment:
+    #   POSTGRES_PASSWORD: mutt
+    #   POSTGRES_USER: mutt
+    #   POSTGRES_DB: dw
+    # ports:
+    #   - "5432:5432"
+  app:
+    build: .
+    command: jupyter notebook --allow-root --port=8888 --no-browser --ip=0.0.0.0
+    ports:
+      - "8888:8888"
+      - "4040:4040"
+    volumes:
+      - ./src:/app
